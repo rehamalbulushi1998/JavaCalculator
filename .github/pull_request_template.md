@@ -9,9 +9,9 @@
 - any additional information or context
 
 # Checklist
-- [] Tests
-- [] Translations
-- [] Documentations
+- [ ] Tests
+- [ ] Translations
+- [ ] Documentations
 
 # Screenshots
 [upload the screenshot here]
