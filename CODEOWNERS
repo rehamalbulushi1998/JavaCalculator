@@ -1,0 +1,9 @@
+# These owners will be the default owners for every Java file in
+# the repo.
+*                            @rehamalbulushi1998
+
+
+
+# java-files should be handled by 
+*.java                         @Israaaltubi
+
